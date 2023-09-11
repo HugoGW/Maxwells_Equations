@@ -6,6 +6,7 @@ In the code I've created, we observe the electric field lines (normalized). You 
 
 
 $q = {\pm n e}$ for all $n \in \mathbb{N}^*$, representing the electric charge.
+
 $x, y, z$, the coordinates where you want to place the charge.
 
 <img width="410" alt="+e" src="https://github.com/HugoGW/Maxwells_Equations/assets/140922475/10f034dd-84b5-48f8-934d-cbaad4456c98"> 
@@ -19,3 +20,7 @@ You can add any desired number of electric charges.
 For the second equation called 'Maxwell's Thomson Law,' we have $\displaystyle \vec{\nabla} \cdot \vec{B} = 0$. This means that the field lines loop back onto themselves. In other words, there are no magnetic monopoles; only magnetic dipoles exist.
 
 <img width="417" alt="dipole magnétique" src="https://github.com/HugoGW/Maxwells_Equations/assets/140922475/2eaafa07-026a-43ed-9feb-28c9b708893a">
+
+
+The third equation, known as Maxwell's Faraday Law, lays the foundation for what we call electromagnetic induction. Indeed, if we consider time-varying electric and magnetic fields, then we have $\displaystyle \vec{\nabla} \wedge \vec{E} = - \frac{\partial \vec{B}}{\partial t}$. This means that a time-varying magnetic field will induce a time-varying electric field in space, rotating around the magnetic field. To visualize this phenomenon, I created simulations in 2D and 3D.
+
