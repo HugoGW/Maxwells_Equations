@@ -59,8 +59,3 @@ The last equation is the Maxwell-Ampère equation, which is related to Ampère's
 In simple terms, the Maxwell-Ampère equation describes how the magnetic field $\vec{B}$ is influenced by electric currents $\vec{j}$ and changes in the electric field $\vec{E}$ over time. It shows how electric currents and variations in the electric field generate a magnetic field through the circulation of the magnetic field using the operator $\vec{\nabla} \wedge$.
 
 
-
-
-Uploading Maxwell-Ampere 3D.mp4…
-
-
