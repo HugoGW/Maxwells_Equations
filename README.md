@@ -4,7 +4,7 @@ Few years ago, I studied the four Maxwell's equations, and they are among the fo
 For the first equation named "Maxwell's Gauss Law", we have :
 
 
--   $\displaystyle \vec{\nabla} \cdot \vec{E} = \frac{\rho}{\varepsilon_0}$\
+-   $\displaystyle \vec{\nabla} \cdot \vec{E} = \frac{\rho}{\varepsilon_0}$998
 
 
 
