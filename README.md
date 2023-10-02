@@ -47,13 +47,17 @@ The third equation, known as "Maxwell's Faraday Law", lays the foundation for wh
 This means that a time-varying magnetic field will induce a time-varying electric field in space, rotating around the magnetic field. To visualize this phenomenon, I created simulations in 2D and 3D.
 
 
-![Vidéo sans titre ‐ Réalisée avec Clipchamp](https://github.com/HugoGW/Maxwells_Equations/assets/140922475/99ce4e02-bc37-46f4-a15f-0ce16c10b877)
+
+https://github.com/HugoGW/Maxwells_Equations/assets/140922475/ba685397-0bd4-47a9-ab94-70ad6eaa3d5c
+
+https://github.com/HugoGW/Maxwells_Equations/assets/140922475/c0b66632-0f54-4138-b233-d3bdf58279d9
 
 
-https://github.com/HugoGW/Maxwells_Equations/assets/140922475/e832f43b-91aa-46de-bd47-5f37a9570421
+The last equation is the Maxwell-Ampère equation, which is related to Ampère's theorem. It introduces a current density term:
 
+-     $\displaystyle \vec{nabla} \wedge \vec{B} = \mu_0 \bigg(\vec{j} + \varepsilon_0 \frac{\partial \vec{E}}{\partial t} \bigg)$
 
-
+In simple terms, the Maxwell-Ampère equation describes how the magnetic field $\vec{B}$ is influenced by electric currents $\vec{j}$ and changes in the electric field EE over time. It shows how electric currents and variations in the electric field generate a magnetic field through the circulation of the magnetic field using the operator $\vec{nabla} \wedge$.
 
 
 
