@@ -4,8 +4,7 @@ Few years ago, I studied the four Maxwell's equations, and they are among the fo
 For the first equation named "Maxwell's Gauss Law", we have :
 
 
--   $\displaystyle \vec{\nabla} \cdot \vec{E} = \frac{\rho}{\varepsilon_0}$998
-
+-   $\displaystyle \vec{\nabla} \cdot \vec{E} = \frac{\rho}{\varepsilon_0}$
 
 
 which means an electric charge is a source of the electric field.
