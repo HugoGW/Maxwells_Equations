@@ -23,14 +23,21 @@ I made sure that the color of the field lines adapts to the value of the electri
 <img width="394" alt="-e" src="https://github.com/HugoGW/Maxwells_Equations/assets/140922475/eefad147-c3a0-4ade-a508-a1f3b1e950ed">
 <img width="376" alt="+-e" src="https://github.com/HugoGW/Maxwells_Equations/assets/140922475/99fa5c16-c02d-4f7e-bc21-5b1e622fd9ca">
 
-You can add any desired number of electric charges and place them wherever you want. 
+You can add any desired number of electric charges and place them wherever you want. \\\\
 
 
 
-For the second equation called 'Maxwell's Thomson Law,' we have $\displaystyle \vec{\nabla} \cdot \vec{B} = 0$. This means that the field lines loop back onto themselves. In other words, there are no magnetic monopoles; only magnetic dipoles exist.
+For the second equation called "Maxwell's Thomson Law", we have :
 
-<img width="417" alt="dipole magnétique" src="https://github.com/HugoGW/Maxwells_Equations/assets/140922475/2eaafa07-026a-43ed-9feb-28c9b708893a">
+\begin{itemize}[label=\textbullet, font=\Large]
+    $\displaystyle \vec{\nabla} \cdot \vec{B} = 0$
+\end{itemize}
 
 
-The third equation, known as Maxwell's Faraday Law, lays the foundation for what we call electromagnetic induction. Indeed, if we consider time-varying electric and magnetic fields, then we have $\displaystyle \vec{\nabla} \wedge \vec{E} = - \frac{\partial \vec{B}}{\partial t}$. This means that a time-varying magnetic field will induce a time-varying electric field in space, rotating around the magnetic field. To visualize this phenomenon, I created simulations in 2D and 3D.
+This means that the field lines loop back onto themselves. In other words, there are no magnetic monopoles; only magnetic dipoles exist.
+
+<img width="417" alt="dipole magnétique" src="https://github.com/HugoGW/Maxwells_Equations/assets/140922475/2eaafa07-026a-43ed-9feb-28c9b708893a"> \\\\
+
+
+The third equation, known as "Maxwell's Faraday Law", lays the foundation for what we call electromagnetic induction. Indeed, if we consider time-varying electric and magnetic fields, then we have $\displaystyle \vec{\nabla} \wedge \vec{E} = - \frac{\partial \vec{B}}{\partial t}$. This means that a time-varying magnetic field will induce a time-varying electric field in space, rotating around the magnetic field. To visualize this phenomenon, I created simulations in 2D and 3D.
 
