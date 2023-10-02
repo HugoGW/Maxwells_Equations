@@ -47,8 +47,12 @@ The third equation, known as "Maxwell's Faraday Law", lays the foundation for wh
 This means that a time-varying magnetic field will induce a time-varying electric field in space, rotating around the magnetic field. To visualize this phenomenon, I created simulations in 2D and 3D.
 
 
+![Vidéo sans titre ‐ Réalisée avec Clipchamp](https://github.com/HugoGW/Maxwells_Equations/assets/140922475/99ce4e02-bc37-46f4-a15f-0ce16c10b877)
 
-https://github.com/HugoGW/Maxwells_Equations/assets/140922475/7cc46138-a218-4741-972c-8e08dd534bc9
+
+https://github.com/HugoGW/Maxwells_Equations/assets/140922475/e832f43b-91aa-46de-bd47-5f37a9570421
+
+
 
 
 
